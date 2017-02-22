@@ -1,0 +1,7 @@
+name: Bobichat
+main: me.clonalejandro.Bobichat.ChatEX
+version: 1.5.1
+author: clonalejandro
+description: Chat management plugin
+website: https://clonalejandro.me/portfolio/#bobichat
+softdepend: [PermissionsEx,Vault,bPermissions]

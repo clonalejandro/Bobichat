@@ -1,0 +1,7 @@
+name: Bobichat
+main: me.clonalejandro.Bobichat.ChatEX
+version: ${project.version}
+author: clonalejandro
+description: Chat management plugin
+website: https://clonalejandro.me/portfolio/#bobichat
+softdepend: [PermissionsEx,Vault,bPermissions]
